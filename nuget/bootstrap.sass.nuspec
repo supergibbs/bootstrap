@@ -9,7 +9,7 @@
     <owners>bootstrap</owners>
     <description>The most popular front-end framework for developing responsive, mobile first projects on the web.</description>
     <releaseNotes>https://blog.getbootstrap.com/</releaseNotes>
-    <summary>Bootstrap framework in Sass. Includes JavaScript</summary>
+    <summary>Bootstrap framework in Sass. Includes JavaScript.</summary>
     <language>en-us</language>
     <projectUrl>https://getbootstrap.com/</projectUrl>
     <icon>bootstrap.png</icon>
@@ -22,7 +22,6 @@
     </contentFiles>
   </metadata>
   <files>
-    <file src="LICENSE.txt" target="" />
     <file src="nuget\bootstrap.png" target="" />
 
     <file src="scss\**\*.scss" target="content\Content\bootstrap" />
